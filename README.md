@@ -4,10 +4,6 @@
   Built with Expo · TypeScript · Tailwind CSS · Appwrite
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/your-movie-banner.png" alt="Movie App Banner" width="80%"/>
-</div>
-
 ---
 
 ## 🚀 Introduction
@@ -41,7 +37,4 @@ popularity—determined by a custom **search count algorithm**.
 - ⚡ **Performance Optimized**: Uses FlatList for virtualization and Appwrite’s query API.
 - ☁️ **Offline-ready Design**: Local loading states, graceful fallbacks, and error handling.
 
----
-
-## 🧩 Folder Structure
 
