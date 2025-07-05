@@ -37,4 +37,12 @@ popularity—determined by a custom **search count algorithm**.
 - ⚡ **Performance Optimized**: Uses FlatList for virtualization and Appwrite’s query API.
 - ☁️ **Offline-ready Design**: Local loading states, graceful fallbacks, and error handling.
 
+---
 
+## 📸 Screenshots
+
+<div align="center">
+  <img src="Screenshots/homescreen.jpg" alt="Home Screen" width="30%" />
+  <img src="Screenshots/searchScreen.jpg" alt="Search Screen" width="30%" />
+  <img src="Screenshots/detailScreen.jpg" alt="Detail Screen" width="30%" />
+</div>
